@@ -1,14 +1,3 @@
-/* ************************************************************************
-> File Name:     stress_test.cpp
-> Author:        程序员Carl
-> 微信公众号:    代码随想录
-> Created Time:  Sun 16 Dec 2018 11:56:04 AM CST
-> Description: 
-> 
-> Modify :  congzhilil  
-> Date   :  2021/6/21
- ************************************************************************/
-
 #include <iostream>
 #include <chrono>
 #include <cstdlib>
