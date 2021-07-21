@@ -1,0 +1,23 @@
+TEST_COUNT :100000 NUM_THREADS: 1
+insert elapsed:0.09933
+update elapsed:0.106549
+get elapsed:0.089328
+delete elapsed:0.0849058
+
+TEST_COUNT :500000 NUM_THREADS: 1
+insert elapsed:0.840242
+update elapsed:0.971251
+get elapsed:0.862964
+delete elapsed:0.777721
+
+TEST_COUNT :1000000 NUM_THREADS: 1
+insert elapsed:2.09992
+update elapsed:2.42625
+get elapsed:2.15155
+delete elapsed:1.97519
+
+TEST_COUNT : 10000000 NUM_THREADS: 10
+insert elapsed: 36.8314
+update elapsed: 45.7622
+get elapsed: 41.5372
+delete elapsed: 36.5823
